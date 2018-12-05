@@ -38,4 +38,31 @@ button {
     background: rgba(0, 0, 0, 0.70);
     z-index: 1000;
     display: none;
+    text-align: center;
+}
+#inputBox
+{
+    position: absolute;
+    color: rgba(44, 54, 64);
+    left: 50%;
+    top: 50%;
+    width: 800px;
+    background-color: rgba(230, 230, 230);
+    min-height: 600px;
+    padding: 40px;
+    font-size: 25px;
+    z-index: 1001;
+    transform: translate(-50%, -50%);
+    display: none;
+}
+#noteTitle
+{
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+}
+#note
+{
+    display: block;
+    width: 100%;
 }
