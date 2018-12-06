@@ -61,6 +61,8 @@ button {
     display: block;
     width: 100%;
     margin-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
 }
 #note
 {
@@ -69,4 +71,6 @@ button {
     height: 400px;
     resize: none;
     margin-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
 }
