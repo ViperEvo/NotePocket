@@ -10,6 +10,14 @@ body
     font-size: 40px;
     text-align: center;
 }
+#X
+{
+    top: -35px;
+    left: 30px;
+    text-align: right;
+    position: relative;
+    cursor: pointer;
+}
 #buttons
 {
     text-align: center;
@@ -39,6 +47,7 @@ button {
     z-index: 1000;
     display: none;
     text-align: center;
+    cursor: pointer;
 }
 #inputBox
 {
